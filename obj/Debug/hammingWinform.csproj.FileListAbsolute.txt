@@ -1,0 +1,11 @@
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\bin\Debug\hammingWinform.exe.config
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\bin\Debug\hammingWinform.exe
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\bin\Debug\hammingWinform.pdb
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.Form1.resources
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.Properties.Resources.resources
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.csproj.GenerateResource.cache
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.csproj.CoreCompileInputs.cache
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.exe
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.pdb
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.ResultCodage.resources
+D:\S6\mazoto\S6-CODAGE\project\hammingWinform\obj\Debug\hammingWinform.csprojAssemblyReference.cache
